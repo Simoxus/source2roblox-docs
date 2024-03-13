@@ -1,3 +1,3 @@
 
 - C:
-  - [README](C:\Users\simox\docs\README.md)
+  - [main](C:\Users\simox\docs\main.md)
