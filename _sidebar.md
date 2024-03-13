@@ -1,3 +1,3 @@
 
 - C:
-  - [main](C:\Users\simox\docs\main.md)
+  - [main](https://github.com/Simoxus/source2roblox-docs/blob/main/main.md)
